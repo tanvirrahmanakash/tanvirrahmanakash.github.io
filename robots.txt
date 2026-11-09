@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanvirrahmanakash.github.io/sitemap.xml
